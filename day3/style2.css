@@ -62,17 +62,3 @@ img{
         margin: 10px;
         border: none;
 }
-.switch{
-    display: flex;
-    align-items: center;
-    width: 5rem;
-    height: 2rem;
-    justify-content: space-evenly;
-    padding: 5px 10px;
-    border: none;
-    outline: none;
-    background-color: rgb(7, 32,85);
-    border-radius: 20px;
-    cursor: pointer;
-    color: white;
-}
